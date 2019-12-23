@@ -35,11 +35,29 @@ I made an outline of things I need to go over while and during the interview app
 <details>
 <summary>Data Structures</summary>
     
-+ Arrays
-+ Linked List
-+ Stack
-+ Queue
-+ Hash
+<details>
+    <summary> Arrays </summary>
+ 
+</details>
+<details>
+    <summary> Linked Lists </summary>
+    
++ Reverse a linked list (itteratively, recursively)
++ Find the intersection between two linked lists
+
+</details>
+<details>
+    <summary> Stacks </summary>
+    
+</details>
+<details>
+    <summary> Queue </summary>
+
+</details>
+<details>
+    <summary> Hash </summary>
+
+</details>
 
 </details>
 
