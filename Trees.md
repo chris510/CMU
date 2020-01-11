@@ -1,7 +1,7 @@
 # Trees
 
 Created By: Chris Trinh
-Last Edited: Dec 23, 2019 9:30 AM
+Last Edited: Jan 02, 2020 3:07 PM
 
 **Binary Trees**
 
@@ -127,7 +127,7 @@ Last Edited: Dec 23, 2019 9:30 AM
 - Which of the order is identical to depth first?
     - Pre-Order
 
-Breadth First Traversal
+**Breadth First Traversal**
 
 - What is the general conceptualization?
     - This algorithm will visit the node across a level, before moving to the next level. It will always move laterally before it goes deeper into the tree.
@@ -146,3 +146,27 @@ Breadth First Traversal
                 if (node.right) queue.push(node.right);
             }
         }
+
+**Binary Search Trees**
+
+- What are the three criteria of BSTs?
+    1. Node can have at most 2 children
+    2. All the values of the left subtree must be less than the nodes value
+    3. All the values of the right subtree must be greater than the nodes value..
+- Is an empty tree, (tree with 0 nodes) considered a BST?
+    - Yes, it is the base case
+- What is the benefits of using a binary search tree?
+    - cost of insert(), delete(), and lookup() can be done in logarithmic time
+- What is the concept of height in BSTs?
+    - It is the number of edges between the root and farthest leaf in the tree
+- What is the complexity of the height of trees?
+    - "Only the best trees have logs"
+    - O(logN)
+- What is the time complexity of BST's?
+    - Balanced: O(log n)
+    - Unbalanced: O(n)
+- What is the space complexity of BST's?
+    - O(1)
+    - But if we were to count the recursive call stacks:
+        - Balanced: O(log n)
+        - Unbalanced: O(n)
