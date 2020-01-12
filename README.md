@@ -121,7 +121,7 @@ I made an outline of things I need to go over while and during the interview app
 
 # Resources
 
-- [75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+- [75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 - [System Design Repo](https://github.com/donnemartin/system-design-primer)
 
 # Other
