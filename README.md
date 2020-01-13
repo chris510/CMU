@@ -1,9 +1,11 @@
 # Post-Bootcamp Topics
 
 Created By: Chris Trinh
-Last Edited: Dec 22, 2019 5:13 PM
+Last Edited: Jan 10, 2019 7:31 PM
 
-# Coding Grad School
+Markdown files were exported with Notion. It doens't seem to have the dropdown so I'll update the main read me soom
+
+# Post-Code Bootcamp School
 
 After graduating from a coding bootcamp in December 2019, I realized that this there is so much more to learn in the world of software and everything I learned the past months prior is just the very basics of information needed to actually have a successful career.
 
@@ -117,6 +119,10 @@ I made an outline of things I need to go over while and during the interview app
 <summary>CSS</summary>
 </details>
 
+# Resources
+
+- [75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+- [System Design Repo](https://github.com/donnemartin/system-design-primer)
 
 # Other
 
