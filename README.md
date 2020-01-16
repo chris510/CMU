@@ -121,8 +121,10 @@ I made an outline of things I need to go over while and during the interview app
 
 # Resources
 
+- [AlgoExpert](https://www.algoexpert.io/product) (code: gcmrn-32 15% off!)
 - [75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 - [System Design Repo](https://github.com/donnemartin/system-design-primer)
+- [Mock Interview Practice](https://www.pramp.com)
 
 # Other
 
