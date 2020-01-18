@@ -1,7 +1,7 @@
 # Post-Bootcamp Topics
 
 Created By: Chris Trinh
-Last Edited: Jan 10, 2019 7:31 PM
+Last Edited: Jan 17, 2020
 
 Markdown files were exported with Notion. It doens't seem to have the dropdown so I'll update the main read me soom
 
@@ -145,20 +145,17 @@ I made an outline of things I need to go over while and during the interview app
 <details>
 <summary>Sorting</summary>
 
-+General Information
-+Stability
-+Time / Space Complexity
-+Merge Sort
-+Quick Sort
-+Radix Sort
-+Bubble Sort
-+Insertion Sort
-+Selection Sort
+* General Information
+* Stability
+* Time / Space Complexity
+* Merge Sort
+* Quick Sort
+* Radix Sort
+* Bubble Sort
+* Insertion Sort
+* Selection Sort
 </details>
 
-<details>
-<summary>Graphs</summary>
-</details>
 
 <details>
 <summary>System Design</summary>
@@ -167,12 +164,12 @@ I made an outline of things I need to go over while and during the interview app
 <details>
 <summary>Extra</summary>
     
-+Recursion
-+Dynamic Programming
-+Object-Oriented Programming
-+Design Patterns
-+Cache
-+Processes and Threads
+* Recursion
+* Dynamic Programming
+* Object-Oriented Programming
+* Design Patterns
+* Cache
+* Processes and Threads
 
 </details>
 
@@ -183,9 +180,14 @@ I made an outline of things I need to go over while and during the interview app
 # Resources
 
 - [AlgoExpert](https://www.algoexpert.io/product) (code: gcmrn-32 15% off!)
+- [LeetCode](https://leetcode.com/) (Buy Premium!)
 - [75 LeetCode Questions to Save Your Time](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 - [System Design Repo](https://github.com/donnemartin/system-design-primer)
 - [Mock Interview Practice](https://www.pramp.com)
+- [Design Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [30 Vanilla Javascript Frontend Projects](https://javascript30.com/)
+
 
 # Other
 
