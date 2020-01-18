@@ -1,8 +1,10 @@
 # Load Balancing
 
 Created By: Chris Trinh
-Last Edited: Jan 12, 2020 8:26 PM
+Last Edited: Jan 17, 2020 3:22 PM
 
+- What is load balancing and what is it for?
+    - process of distributing network traffic across multiple servers and ensure that no single server bears too much demand by spreading the work evenly.
 - What is a load balancer and what does it do?
     - A critical component in a distributed system that helps spread traffic across a cluster of servers to improve responsiveness and availability of the apps, websites, or databases.
     - It also keeps track of the resources available while distributing the request.
@@ -38,3 +40,17 @@ Last Edited: Jan 12, 2020 8:26 PM
     - hash of IP address of client is calculated and redirects the request to a server
 - Why should we have redundant load balancers?
     - A load balancer can be the point of failure since there is one. If we have a second one and connect it to form a cluster. If the main one fails, the second load balance can take over.
+- What are SSL's and what do they do?
+- What is SSL termination?
+    - Transition process where data traffic becomes encrypted and uncrypted
+- How does SSL termination affect security?
+    - Traffic between load balancers and web servers are not encrypted and can be exposed to an attack but risk is less when load balancer and web server are in the same data center
+    - What is a solution to this?
+        - Load balancer passes an encrypted request to the web server and it does the decryption (uses more CPU power)
+
+- What does DDoS stand for?
+    - Distributed denial-of-service attacks
+- What is the off-loading function of a load balancer and how does it defend against DDoS attacks?
+    - Off-loading is the method by shifting attack traffic from the corporate server to the public cloud provider
+- Why software load balancers over perimeter firewall?
+    - Load balancers are cheaper while firewalls require maintenance

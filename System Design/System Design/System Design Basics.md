@@ -1,7 +1,7 @@
 # System Design Basics
 
 Created By: Chris Trinh
-Last Edited: Jan 12, 2020 1:40 PM
+Last Edited: Jan 17, 2020 3:22 PM
 
 **Basics**
 

@@ -1,7 +1,7 @@
 # System Design Implementation
 
 Created By: Chris Trinh
-Last Edited: Jan 12, 2020 1:41 PM
+Last Edited: Jan 17, 2020 3:22 PM
 
 - What are the steps for answering a system design interview question?
     - 1. Clarify Requirements
