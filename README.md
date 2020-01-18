@@ -14,7 +14,7 @@ After graduating from a coding bootcamp in December 2019, I realized that this t
 I tried all sorts of study techniques through my undergraduate days and as I was going through bootcamp to learn to code. After scouring the internet one day for study tips and tricks, I came across two very important techniques to learning a skill that I feel are valuable to not just programmers but anyone. 
 
 - [Active Recall](https://en.wikipedia.org/wiki/Active_recall) - This is the notion of efficient learning proven by studies that says all we need to learn is to stimulate memory during out learning process. I always wondered how people got into medical school with the vast amount of knowledge that they need to learn and this is one of the tricks they use to achieve that goal. One of my favorite youtubers is a Cambridge University medical student has a [video](https://www.youtube.com/watch?v=ukLnPbIffxE&t=1072s) on active recall and I recommend you guys check him out!
-- The other technique is **[Space Repetition](https://en.wikipedia.org/wiki/Spaced_repetition)** which uses a space time period between learning concepts in order to increase the learning and memorization. I use this a lot with conceptual information like remembering which data structures does what, their time/space complexities, etc.
+- The other technique is [Space Repetition](https://en.wikipedia.org/wiki/Spaced_repetition) which uses a space time period between learning concepts in order to increase the learning and memorization. I use this a lot with conceptual information like remembering which data structures does what, their time/space complexities, etc.
 
 ## Technologies
 
@@ -36,28 +36,20 @@ I made an outline of things I need to go over while and during the interview app
 
 <details>
 <summary>Data Structures</summary>
+** Arrays
     
-<details>
-    <summary> Arrays </summary>
- 
-</details>
-<details>
-    <summary> Linked Lists </summary>
+** Linked List
     
-+ Reverse a linked list (itteratively, recursively)
-+ Find the intersection between two linked lists
-
-</details>
-<details>
-    <summary> Stacks </summary>
+** Stacks
     
-</details>
-<details>
-    <summary> Queue </summary>
-
-</details>
-<details>
-    <summary> Hash </summary>
+** Queue
+    
+** Hash
+    
+** Trees
+    + Heap / Priority Queue / Binary Heap
+    * Heap / Priority Queue / Binary Heap
+    -[Map vs Object](https://medium.com/front-end-weekly/es6-map-vs-object-what-and-when-b80621932373)
 
 </details>
 
