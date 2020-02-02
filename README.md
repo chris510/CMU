@@ -81,6 +81,7 @@ I made an outline of things I need to go over while and during the interview app
   * Searching elements takes O(N) time
   * Storing elements takes O(N) time
 * ## Hash
+  * O(1) look up time
 * ## Trees
   * Balanced vs Unbalanced Tree
     * 
